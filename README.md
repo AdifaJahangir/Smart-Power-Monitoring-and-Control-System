@@ -1,4 +1,4 @@
-[Presentation - Smart Energy Monitoring System.pdf](https://github.com/user-attachments/files/20931561/Presentation.-.Smart.Energy.Monitoring.System.pdf)# ⚡ Smart Energy Analysis & Control IoT Project
+# ⚡ Smart Energy Analysis & Control IoT Project
 Welcome to the Smart Energy Analysis & Control IoT Project!
 This system provides real-time energy monitoring, anomaly detection, and AI-powered forecasting for smart homes. It combines robust IoT hardware with advanced machine learning to help you optimize energy usage, detect faults, and control appliances efficiently.
 
@@ -68,8 +68,6 @@ This project is intended for educational and research purposes.
 
 ## 📬 Contact
 **Project lead:**[Muneeb Ur Rehman or urrehnammuneeb66@gmail.com]
-**Documentation:** See IoT_Fundamentals_Project_Documentation_1338.pdf
-**Presentation:** See  Presentation - Smart Energy Monitoring System.pdf
 
 
 
