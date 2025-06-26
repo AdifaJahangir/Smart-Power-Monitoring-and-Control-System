@@ -67,7 +67,7 @@ For major changes, please open an issue first to discuss what you'd like to chan
 This project is intended for educational and research purposes.
 
 ## 📬 Contact
-**Project lead:**[Muneeb Ur Rehman or urrehnammuneeb66@gmail.com]
+**Project lead:**Muneeb Ur Rehman or urrehnammuneeb66@gmail.com
 
 
 
